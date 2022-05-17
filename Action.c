@@ -1,5 +1,3 @@
-//#include <stdlib.h>
-//#include <stdio.h>
 #define DIR_LEN 1024
 #define FILENAME_LEN 128
 
