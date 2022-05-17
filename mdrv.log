@@ -1,10 +1,10 @@
 Warning: Failed to get NV emulation handle.
-Virtual User Script started at: 5/17/2022 5:29:15 PM
+Virtual User Script started at: 5/17/2022 6:37:47 PM
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 2022.0.0 for Windows 2019; build 605 (Mar 08 2022 19:29:30)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
 Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
-Runtime Settings file: "c:\temp\fileDelivery\\default.cfg"  	[MsgId: MMSG-27141]
+Runtime Settings file: "C:\tmp\fileDelivery\\default.cfg"  	[MsgId: MMSG-27141]
 Warning: Failed to get NV emulation handle.
 Ending action vuser_init.
 Running Vuser...
@@ -12,34 +12,8 @@ Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
 Starting action Action.
 Warning: Failed to get NV emulation handle.
-Action.c(19): File Source: c:\temp\filedelivery\flynn.txt
+Action.c(19): File Source: c:\tmp\filedelivery\flynn.txt
 Action.c(21): File Target: c:\tmp\flynn.txt
-Action.c(30): >>c<<
-Action.c(30): >>o<<
-Action.c(30): >>r<<
-Action.c(30): >>n<<
-Action.c(30): >>d<<
-Action.c(30): >>o<<
-Action.c(30): >>g<<
-Action.c(30): >> <<
-Action.c(30): >>F<<
-Action.c(30): >>l<<
-Action.c(30): >>y<<
-Action.c(30): >>n<<
-Action.c(30): >>n<<
-Action.c(30): >>
-<<
-Action.c(30): >>f<<
-Action.c(30): >>o<<
-Action.c(30): >>r<<
-Action.c(30): >> <<
-Action.c(30): >>t<<
-Action.c(30): >>h<<
-Action.c(30): >>e<<
-Action.c(30): >> <<
-Action.c(30): >>w<<
-Action.c(30): >>i<<
-Action.c(30): >>n<<
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...
